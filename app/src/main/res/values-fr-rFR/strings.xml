@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">-Activité2</string>
+    <string name="sumar">AJOUTER</string>
+    <string name="restar">SOUSTRAIRE</string>
+    <string name="ocultar">CACHER</string>
+    <string name="reset">RÉINITIALISER</string>
+    <string name="conversor">Convertisseur Devises</string>
+    <string name="monto">Entrez Montant en Pesos</string>
+    <string name="moneda">Sélectionnez une Devise</string>
+    <string name="dolar">DOLLAR (USA)</string>
+    <string name="real">REAL (BRÉSIL)</string>
+    <string name="resultado">Résultat</string>
+    <string name="convertir">CONVERTIR</string>
+    <string name="reiniciar">REDÉMARRER</string>
+</resources>

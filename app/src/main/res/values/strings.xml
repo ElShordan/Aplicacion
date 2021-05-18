@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">-Actividad2</string>
+    <string name="numero" translatable="false">0</string>
+    <string name="logo" translatable="false">Logo</string>
+    <string name="sumar">SUMAR</string>
+    <string name="restar">RESTAR</string>
+    <string name="zoomMas" translatable="false">ZOOM +</string>
+    <string name="zoomMenos" translatable="false">ZOOM -</string>
+    <string name="ocultar">OCULTAR</string>
+    <string name="reset">RESET</string>
+    <string name="conversor">Conversor Monedas</string>
+    <string name="monto">Ingrese Monto en Pesos</string>
+    <string name="moneda">Seleccione una Moneda</string>
+    <string name="dolar">DOLAR (USA)</string>
+    <string name="euro" translatable="false">EURO</string>
+    <string name="real">REAL (BRASIL)</string>
+    <string name="resultado">Resultado</string>
+    <string name="convertir">CONVERTIR</string>
+    <string name="reiniciar">REINICIAR</string>
+</resources>
